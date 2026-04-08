@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Renovation & Construction Services, LLC",
+    "phone": "+19182779972",
+    "category": "general contractor",
+    "city": "Tulsa",
+    "state": "OK"
+  },
+  "design": {
+    "preset": {
+      "id": "general-contractor-mountain-bold",
+      "categoryGroup": "general-contractor",
+      "name": "Mountain Bold",
+      "recipeFile": "general-contractor/mountain-bold.astro",
+      "colors": {
+        "primary": "#0F1D30",
+        "primaryDark": "#0b1422",
+        "primaryLight": "#c3c7cb",
+        "secondary": "#1E3A5F",
+        "accent": "#3B82F6",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#0F1D30",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "general-contractor/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Tulsa's Trusted Contractor",
+      "heroSubline": "Building and renovating Tulsa homes with integrity. Quality craftsmanship, reliable service, and lasting results.",
+      "aboutTitle": "Building Tulsa, One Project at a Time",
+      "aboutText": [
+        "Renovation & Construction Services, LLC was founded over a decade ago right here in Tulsa. We started with a simple mission: to provide homeowners with reliable, high-quality construction and renovation services they could trust. From small repairs to full-scale remodels, we treat every project with the same level of care and attention.",
+        "Our approach is centered around clear communication, transparent pricing, and exceptional workmanship. We believe in building strong relationships with our clients, listening to their needs, and exceeding their expectations. We use only the best materials and employ skilled tradespeople who are passionate about their craft.",
+        "As a locally owned and operated business, we're deeply invested in the Tulsa community. We're proud to contribute to the growth and revitalization of our city, and we're committed to giving back through volunteer work and charitable donations. We believe in building a better Tulsa, one project at a time."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand Tulsa's unique architectural styles and climate challenges."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "You'll receive a detailed and accurate estimate before any work begins."
+        },
+        {
+          "title": "Quality Craftsmanship",
+          "description": "We use premium materials and skilled tradespeople for lasting results."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "We're committed to completing your project on time and within budget."
+        }
+      ],
+      "ctaHeadline": "Transform Your Tulsa Home Today!",
+      "ctaSubline": "Get a free consultation and discover the possibilities for your next renovation project."
+    },
+    "services": [
+      {
+        "slug": "kitchen-remodeling",
+        "name": "Kitchen Remodeling",
+        "shortDescription": "Transform your kitchen into the heart of your Tulsa home.",
+        "description": "The kitchen is often considered the heart of a home, and a well-designed kitchen can significantly enhance your living space. At Renovation & Construction Services, LLC, we specialize in creating kitchens that are both beautiful and functional. Whether you're dreaming of a modern, open-concept design or a cozy, traditional space, we can bring your vision to life.\n\nOur kitchen remodeling services include everything from custom cabinetry and countertop installation to flooring, lighting, and appliance upgrades. We work closely with you to understand your needs and preferences, creating a design that reflects your personal style and meets your practical requirements. We handle all aspects of the project, from initial planning and permitting to final finishing touches, ensuring a seamless and stress-free experience.\n\nWe understand the unique challenges of remodeling kitchens in Tulsa homes, from older plumbing and electrical systems to space constraints in established neighborhoods. Our experienced team is equipped to handle any challenge, delivering exceptional results that exceed your expectations. Let us help you create the kitchen of your dreams, a space where you'll love to cook, entertain, and gather with family and friends.",
+        "process": [
+          "Step 1: Initial Consultation & Design - We discuss your vision, budget, and timeline.",
+          "Step 2: Material Selection - Choose from a wide range of high-quality materials and finishes.",
+          "Step 3: Demolition & Construction - Our skilled team handles all aspects of the remodeling process.",
+          "Step 4: Final Touches & Inspection - We ensure every detail is perfect before presenting you with your new kitchen."
+        ],
+        "benefits": [
+          "Increased home value",
+          "Improved functionality and efficiency",
+          "Enhanced aesthetics",
+          "Customized design to fit your lifestyle"
+        ],
+        "faq": [
+          {
+            "question": "How long does a kitchen remodel typically take?",
+            "answer": "The timeline varies depending on the scope of the project, but most kitchen remodels take between 4-8 weeks. We'll provide you with a detailed schedule during the initial consultation."
+          },
+          {
+            "question": "Do I need to move out during the remodel?",
+            "answer": "While it's not always necessary, it can make the process more comfortable. We'll work with you to minimize disruption and keep you informed throughout the project."
+          },
+          {
+            "question": "Can you help me with design ideas?",
+            "answer": "Absolutely! Our team has extensive experience in kitchen design and can provide you with creative solutions to maximize space and functionality."
+          }
+        ]
+      },
+      {
+        "slug": "bathroom-remodeling",
+        "name": "Bathroom Remodeling",
+        "shortDescription": "Create a spa-like retreat in your Tulsa home with a bathroom remodel.",
+        "description": "Your bathroom should be a sanctuary, a place where you can relax and rejuvenate. If your current bathroom is outdated, cramped, or simply doesn't meet your needs, Renovation & Construction Services, LLC can help you transform it into a luxurious and functional space.\n\nWe offer a full range of bathroom remodeling services, including new vanities, countertops, showers, tubs, tile work, and lighting. We can also reconfigure the layout of your bathroom to maximize space and improve flow. Whether you're looking for a modern, minimalist design or a classic, elegant style, we can bring your vision to life.\n\nWe understand the importance of quality materials and workmanship in bathroom remodeling. Our team uses only the best products and employs skilled tradespeople who are experts in their field. We also pay close attention to detail, ensuring that every aspect of your new bathroom is perfect, from the grout lines to the plumbing fixtures. Transform your Tulsa bathroom into a space you'll love with our expert remodeling services.",
+        "process": [
+          "Step 1: Consultation & Design",
+          "Step 2: Material Selection",
+          "Step 3: Demolition & Plumbing/Electrical Work",
+          "Step 4: Installation & Finishing"
+        ],
+        "benefits": [
+          "Increased comfort and relaxation",
+          "Improved functionality and storage",
+          "Enhanced home value",
+          "Modernized aesthetics"
+        ],
+        "faq": [
+          {
+            "question": "What are the latest trends in bathroom remodeling?",
+            "answer": "Popular trends include walk-in showers, freestanding tubs, smart toilets, and natural stone countertops. We can help you incorporate these trends into your bathroom design."
+          },
+          {
+            "question": "How can I maximize space in a small bathroom?",
+            "answer": "Consider using floating vanities, corner sinks, and vertical storage solutions. We can also help you choose the right tile and lighting to make your bathroom feel larger."
+          },
+          {
+            "question": "Do I need a permit for a bathroom remodel?",
+            "answer": "It depends on the scope of the project. We'll handle all necessary permits to ensure your remodel is compliant with local building codes."
+          }
+        ]
+      },
+      {
+        "slug": "home-additions",
+        "name": "Home Additions",
+        "shortDescription": "Expand your living space with a custom home addition in Tulsa.",
+        "description": "As your family grows or your needs change, a home addition can be the perfect solution to create more space without the hassle of moving. Renovation & Construction Services, LLC specializes in designing and building custom home additions that seamlessly integrate with your existing Tulsa home.\n\nWhether you're looking to add a new bedroom, a larger living room, a home office, or a sunroom, we can help you create a space that meets your specific needs and enhances your lifestyle. We handle all aspects of the project, from initial design and permitting to construction and finishing. We work closely with you to ensure that the addition blends seamlessly with your existing home's architecture and style.\n\nWe understand the unique challenges of building home additions in Tulsa, from navigating local zoning regulations to working with existing foundations and utilities. Our experienced team is equipped to handle any challenge, delivering exceptional results that exceed your expectations. We'll ensure your home addition is not only beautiful but also structurally sound and energy-efficient.",
+        "process": [
+          "Step 1: Project Planning & Design",
+          "Step 2: Permitting & Approvals",
+          "Step 3: Foundation & Framing",
+          "Step 4: Interior Finishing & Details"
+        ],
+        "benefits": [
+          "Increased living space",
+          "Enhanced home value",
+          "Improved functionality",
+          "Customized design"
+        ],
+        "faq": [
+          {
+            "question": "How much does a home addition typically cost?",
+            "answer": "The cost varies depending on the size and complexity of the project. We'll provide you with a detailed estimate after assessing your needs and reviewing your design options."
+          },
+          {
+            "question": "How long does it take to build a home addition?",
+            "answer": "The timeline depends on the scope of the project, but most home additions take between 3-6 months. We'll provide you with a realistic schedule during the initial consultation."
+          },
+          {
+            "question": "Will a home addition increase my property taxes?",
+            "answer": "Yes, a home addition will typically increase your property taxes. We recommend contacting the Tulsa County Assessor's Office for more information."
+          }
+        ]
+      },
+      {
+        "slug": "deck-patio-construction",
+        "name": "Deck & Patio Construction",
+        "shortDescription": "Extend your living space outdoors with a custom deck or patio in Tulsa.",
+        "description": "Enjoy the beautiful Tulsa weather with a custom-designed deck or patio from Renovation & Construction Services, LLC. We specialize in creating outdoor living spaces that are both functional and aesthetically pleasing.\n\nWhether you're looking for a spacious deck for entertaining, a cozy patio for relaxing, or an outdoor kitchen for grilling and dining, we can bring your vision to life. We offer a wide range of materials, including wood, composite decking, concrete pavers, and natural stone. We work closely with you to design a space that complements your home's architecture and fits your lifestyle.\n\nWe understand the unique challenges of building decks and patios in Tulsa, from dealing with the hot summers and occasional ice storms to ensuring proper drainage and structural integrity. Our experienced team is equipped to handle any challenge, delivering exceptional results that exceed your expectations. Let us help you create the perfect outdoor oasis for your Tulsa home.",
+        "process": [
+          "Step 1: Design Consultation",
+          "Step 2: Material Selection",
+          "Step 3: Construction & Installation",
+          "Step 4: Final Inspection"
+        ],
+        "benefits": [
+          "Increased outdoor living space",
+          "Enhanced curb appeal",
+          "Improved home value",
+          "Perfect for entertaining"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of composite decking versus wood?",
+            "answer": "Composite decking is more durable, requires less maintenance, and is resistant to rot and insects. Wood decking is more affordable and has a natural look and feel."
+          },
+          {
+            "question": "Do I need a permit for a deck or patio?",
+            "answer": "It depends on the size and scope of the project. We'll handle all necessary permits to ensure your project is compliant with local building codes."
+          },
+          {
+            "question": "How can I protect my deck or patio from the Tulsa weather?",
+            "answer": "We recommend using weather-resistant materials, applying sealant regularly, and providing shade with umbrellas or pergolas."
+          }
+        ]
+      },
+      {
+        "slug": "roofing-services",
+        "name": "Roofing Services",
+        "shortDescription": "Protect your Tulsa home with our expert roofing repair and replacement services.",
+        "description": "Your roof is your home's first line of defense against the elements, and a damaged or failing roof can lead to significant problems. Renovation & Construction Services, LLC offers comprehensive roofing services to protect your Tulsa home from the harsh Oklahoma weather.\n\nWe provide roof repair, roof replacement, and roof maintenance services for all types of roofs, including asphalt shingles, metal roofing, and tile roofing. Whether you have a leaky roof, missing shingles, or storm damage, our experienced team can quickly and efficiently restore your roof to its original condition.\n\nWe understand the importance of quality materials and workmanship in roofing. Our team uses only the best products and employs skilled tradespeople who are experts in their field. We also offer free roof inspections and estimates to help you assess your roofing needs. Protect your Tulsa home with our reliable roofing services.",
+        "process": [
+          "Step 1: Free Roof Inspection",
+          "Step 2: Detailed Estimate",
+          "Step 3: Material Selection",
+          "Step 4: Professional Installation"
+        ],
+        "benefits": [
+          "Protection from the elements",
+          "Increased home value",
+          "Improved energy efficiency",
+          "Peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I need a new roof?",
+            "answer": "Signs of a failing roof include leaks, missing shingles, curling shingles, and excessive granule loss. We can provide a free roof inspection to assess your roof's condition."
+          },
+          {
+            "question": "How long does a new roof typically last?",
+            "answer": "The lifespan of a roof depends on the materials used and the quality of the installation. Asphalt shingle roofs typically last 20-30 years, while metal roofs can last 50 years or more."
+          },
+          {
+            "question": "Does homeowners insurance cover roof replacement?",
+            "answer": "It depends on the cause of the damage. Homeowners insurance typically covers roof replacement due to covered perils such as wind, hail, and fire."
+          }
+        ]
+      },
+      {
+        "slug": "siding-installation",
+        "name": "Siding Installation",
+        "shortDescription": "Enhance your home's curb appeal and protect it from the elements with new siding.",
+        "description": "New siding can dramatically improve the look of your home while also protecting it from the elements. Renovation & Construction Services, LLC offers professional siding installation services for Tulsa homeowners.\n\nWe offer a wide range of siding options, including vinyl siding, fiber cement siding, and wood siding. We can help you choose the right siding material to complement your home's architecture and fit your budget. Our experienced team will install your new siding with precision and care, ensuring a beautiful and long-lasting result.\n\nWe understand the importance of proper siding installation in protecting your home from moisture, pests, and the elements. Our team uses only the best materials and employs skilled tradespeople who are experts in their field. We also offer free siding inspections and estimates to help you assess your siding needs. Enhance your Tulsa home with our expert siding installation services.",
+        "process": [
+          "Step 1: Siding Inspection & Consultation",
+          "Step 2: Material Selection",
+          "Step 3: Old Siding Removal",
+          "Step 4: New Siding Installation"
+        ],
+        "benefits": [
+          "Enhanced curb appeal",
+          "Protection from the elements",
+          "Increased home value",
+          "Improved energy efficiency"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of vinyl siding?",
+            "answer": "Vinyl siding is affordable, durable, low-maintenance, and available in a wide range of colors and styles."
+          },
+          {
+            "question": "What are the benefits of fiber cement siding?",
+            "answer": "Fiber cement siding is durable, fire-resistant, and can mimic the look of wood or brick."
+          },
+          {
+            "question": "How often should I clean my siding?",
+            "answer": "We recommend cleaning your siding at least once a year to remove dirt, mildew, and other debris."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Tulsa",
+        "slug": "tulsa-ok",
+        "state": "OK",
+        "content": "Renovation & Construction Services, LLC is proud to offer comprehensive general contractor services to the residents and businesses of Tulsa, Oklahoma. From historic neighborhoods in Midtown to the growing suburbs, we bring our expertise in remodeling, new construction, and renovation to every project. We are committed to providing high-quality workmanship and exceptional customer service throughout Tulsa.\n\nWhether you're looking to update your kitchen in Brookside, add an addition to your home in Jenks, or require commercial construction services downtown, our team is equipped to handle projects of all sizes and complexities. We understand the unique architectural styles and building codes specific to Tulsa, ensuring that your project is completed efficiently and to the highest standards. We prioritize clear communication and transparency throughout the entire process.\n\nWe understand the unique needs of Tulsa home and business owners, and we’re dedicated to exceeding your expectations. Contact us today to discuss your project and receive a free consultation.",
+        "localContext": "Tulsa is a vibrant city known for its art deco architecture, thriving arts scene, and rich history, nestled along the Arkansas River.",
+        "nearbyAreas": [
+          "Broken Arrow",
+          "Owasso",
+          "Sand Springs"
+        ]
+      },
+      {
+        "city": "Broken Arrow",
+        "slug": "broken-arrow-ok",
+        "state": "OK",
+        "content": "Renovation & Construction Services, LLC extends its premier general contractor services to the thriving community of Broken Arrow, Oklahoma. As one of the fastest-growing cities in the state, Broken Arrow presents unique opportunities for both residential and commercial development. We are dedicated to providing top-notch construction and remodeling services to meet the evolving needs of this dynamic city.\n\nFrom kitchen and bathroom remodels to whole-house renovations and new construction projects, our experienced team is ready to bring your vision to life. We understand Broken Arrow's specific building codes and regulations, ensuring a smooth and efficient project from start to finish. We are committed to delivering exceptional quality and customer satisfaction on every project.\n\nWe are proud to serve the residents and businesses of Broken Arrow. Contact us today to learn more about how we can help you with your construction or remodeling needs.",
+        "localContext": "Broken Arrow is a family-friendly city with a strong sense of community, known for its excellent schools and numerous parks and recreational opportunities.",
+        "nearbyAreas": [
+          "Tulsa",
+          "Coweta",
+          "Bixby"
+        ]
+      },
+      {
+        "city": "Owasso",
+        "slug": "owasso-ok",
+        "state": "OK",
+        "content": "Renovation & Construction Services, LLC is pleased to offer its comprehensive general contractor services to the growing community of Owasso, Oklahoma. We understand the unique needs of homeowners and businesses in Owasso, and we are committed to providing high-quality construction and renovation services that meet their specific requirements.\n\nWhether you're looking to build a new home, remodel your existing kitchen, or expand your commercial space, our experienced team is equipped to handle projects of all sizes and complexities. We are familiar with Owasso's building codes and regulations, ensuring that your project is completed efficiently and to the highest standards. We pride ourselves on clear communication, attention to detail, and a commitment to customer satisfaction.\n\nWe are dedicated to serving the residents and businesses of Owasso. Contact us today to discuss your project and receive a free estimate.",
+        "localContext": "Owasso is a rapidly growing suburban city known for its excellent schools, family-friendly atmosphere, and convenient access to Tulsa.",
+        "nearbyAreas": [
+          "Tulsa",
+          "Collinsville",
+          "Skiatook"
+        ]
+      },
+      {
+        "city": "Bixby",
+        "slug": "bixby-ok",
+        "state": "OK",
+        "content": "Renovation & Construction Services, LLC is a leading general contractor serving Bixby, Oklahoma. We provide a wide range of construction and remodeling services to homeowners and businesses throughout the area. Our team is committed to delivering exceptional quality, outstanding customer service, and lasting value on every project.\n\nFrom custom home building to kitchen and bathroom renovations, we have the expertise and experience to handle any project, large or small. We understand the unique character of Bixby and strive to create spaces that reflect the community's style and charm. We prioritize clear communication and transparency throughout the entire construction process.\n\nWe are proud to be a part of the Bixby community. Contact us today to discuss your construction or remodeling needs and learn how we can help you achieve your vision.",
+        "localContext": "Bixby is a vibrant and growing city known for its excellent schools, beautiful parks, and strong community spirit.",
+        "nearbyAreas": [
+          "Tulsa",
+          "Broken Arrow",
+          "Jenks"
+        ]
+      },
+      {
+        "city": "Jenks",
+        "slug": "jenks-ok",
+        "state": "OK",
+        "content": "Renovation & Construction Services, LLC is delighted to provide general contracting services to the residents and businesses of Jenks, Oklahoma. Known for its excellent schools and family-friendly environment, Jenks is a wonderful place to live and work, and we're committed to helping our clients create spaces that they love.\n\nOur services in Jenks include everything from kitchen and bathroom remodels to whole-house renovations and new construction projects. We understand the local building codes and regulations, and we work closely with our clients to ensure that their projects are completed on time and within budget. We pride ourselves on providing exceptional customer service and high-quality workmanship.\n\nWe are dedicated to serving the Jenks community. Contact us today to discuss your project and receive a free consultation.",
+        "localContext": "Jenks is a charming city known for its award-winning schools, the Oklahoma Aquarium, and its vibrant downtown area.",
+        "nearbyAreas": [
+          "Tulsa",
+          "Bixby",
+          "Glenpool"
+        ]
+      },
+      {
+        "city": "Sand Springs",
+        "slug": "sand-springs-ok",
+        "state": "OK",
+        "content": "Renovation & Construction Services, LLC proudly serves the Sand Springs, Oklahoma community with top-tier general contractor services. We understand the unique needs of Sand Springs homeowners and businesses, and we are dedicated to providing customized solutions that meet their specific requirements. Our commitment to quality and customer satisfaction is unwavering.\n\nWhether you're planning a kitchen remodel, a bathroom renovation, or a complete home addition, our experienced team is ready to bring your vision to life. We are familiar with the local building codes and regulations, ensuring a smooth and hassle-free construction process. We prioritize open communication and transparency throughout the project.\n\nWe are proud to be a trusted partner in the Sand Springs community. Contact us today to discuss your project and receive a free estimate.",
+        "localContext": "Sand Springs is a historic city nestled along the Arkansas River, known for its scenic beauty and strong community spirit.",
+        "nearbyAreas": [
+          "Tulsa",
+          "Sapulpa",
+          "Mannford"
+        ]
+      },
+      {
+        "city": "Sapulpa",
+        "slug": "sapulpa-ok",
+        "state": "OK",
+        "content": "Renovation & Construction Services, LLC extends its general contracting expertise to Sapulpa, Oklahoma. We are committed to providing high-quality construction, remodeling and renovation services to the residents and businesses of Sapulpa, ensuring that their projects are completed to the highest standards of craftsmanship and customer satisfaction.\n\nFrom small home repairs to large-scale commercial construction, our skilled team is equipped to handle a diverse range of projects. We understand the specific building codes and regulations in Sapulpa, and we work diligently to ensure that all projects are compliant and completed on time and within budget. We value clear communication and collaboration with our clients.\n\nWe are dedicated to serving the Sapulpa community. Contact us today to discuss your project and receive a free consultation.",
+        "localContext": "Sapulpa is a city with a rich history and a strong sense of community, located southwest of Tulsa and known for its antique shops and Route 66 heritage.",
+        "nearbyAreas": [
+          "Tulsa",
+          "Sand Springs",
+          "Glenpool"
+        ]
+      },
+      {
+        "city": "Glenpool",
+        "slug": "glenpool-ok",
+        "state": "OK",
+        "content": "Renovation & Construction Services, LLC is proud to offer our comprehensive general contractor services to the residents and businesses of Glenpool, Oklahoma. We understand the unique needs of this growing community and are committed to providing top-quality construction and renovation solutions.\n\nWhether you're looking to remodel your kitchen, build a new home, or expand your commercial space, our experienced team is ready to bring your vision to life. We are familiar with Glenpool's building codes and regulations, ensuring that your project is completed efficiently and to the highest standards. We prioritize clear communication, attention to detail, and a commitment to customer satisfaction.\n\nWe are dedicated to serving the Glenpool community. Contact us today to discuss your project and receive a free estimate.",
+        "localContext": "Glenpool is a rapidly growing city known for its excellent schools, family-friendly atmosphere, and proximity to Tulsa.",
+        "nearbyAreas": [
+          "Tulsa",
+          "Jenks",
+          "Sapulpa"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Kitchen Remodel",
+        "text": "Renovation & Construction Services, LLC did an amazing job remodeling our kitchen! They helped us design a space that was both beautiful and functional. The team was professional, courteous, and always kept us informed throughout the process. We highly recommend them!",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Roof Repair",
+        "text": "We had a leaky roof after a recent storm, and Renovation & Construction Services, LLC responded quickly and efficiently. They were able to identify the problem and make the necessary repairs in a timely manner. We were very impressed with their professionalism and expertise.",
+        "date": "2024-10-28"
+      },
+      {
+        "name": "Jennifer L.",
+        "rating": 5,
+        "service": "Bathroom Remodel",
+        "text": "I absolutely love my new bathroom! Renovation & Construction Services, LLC transformed my outdated bathroom into a spa-like retreat. The quality of their work is exceptional, and they paid close attention to every detail. I couldn't be happier!",
+        "date": "2024-09-05"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Deck Construction",
+        "text": "Renovation & Construction Services, LLC built a beautiful deck for our backyard. They helped us design a space that was perfect for entertaining and relaxing. The team was professional, reliable, and always on time. We highly recommend them!",
+        "date": "2024-08-12"
+      },
+      {
+        "name": "Ashley P.",
+        "rating": 4,
+        "service": "Siding Installation",
+        "text": "We recently had our siding replaced by Renovation & Construction Services, LLC, and we're very happy with the results. The new siding looks great and has significantly improved the curb appeal of our home. The team was professional and efficient, and they cleaned up thoroughly after the job was done.",
+        "date": "2024-07-20"
+      },
+      {
+        "name": "Robert S.",
+        "rating": 5,
+        "service": "Home Addition",
+        "text": "Adding a new room was a big decision, but Renovation & Construction Services, LLC walked us through every step of the process. The finished space is exactly what we wanted. They were professional and easy to work with!",
+        "date": "2024-06-10"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Tulsa Contractor | Renovation & Construction",
+        "description": "Trusted Tulsa general contractor. Kitchen & bath remodeling, roofing, siding, decks, home additions. Free estimates!"
+      },
+      "about": {
+        "title": "About Us | Tulsa Contractor",
+        "description": "Learn about Renovation & Construction Services, LLC - Tulsa's trusted general contractor. Quality craftsmanship and reliable service."
+      },
+      "services": {
+        "title": "Services | Tulsa Contractor",
+        "description": "General contractor services in Tulsa. Kitchen & bath remodeling, roofing, siding, decks, home additions. Contact us!"
+      },
+      "contact": {
+        "title": "Contact Us | Tulsa Contractor",
+        "description": "Contact Renovation & Construction Services, LLC for a free estimate on your next project in Tulsa. Call 918-277-9972."
+      },
+      "reviews": {
+        "title": "Reviews | Tulsa Contractor",
+        "description": "Read reviews for Renovation & Construction Services, LLC. See why Tulsa homeowners trust us for their renovation needs."
+      },
+      "service-areas": {
+        "title": "Service Areas | Tulsa Contractor",
+        "description": "Renovation & Construction Services, LLC provides general contractor services in Tulsa and surrounding areas. Contact us today!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "kitchen-remodeling": "/images/service-kitchen-remodeling.webp",
+      "bathroom-remodeling": "/images/service-bathroom-remodeling.webp",
+      "home-additions": "/images/service-home-additions.webp",
+      "deck-patio-construction": "/images/service-deck-patio-construction.webp",
+      "roofing-services": "/images/service-roofing-services.webp",
+      "siding-installation": "/images/service-siding-installation.webp"
+    },
+    "servicesResponsive": {
+      "kitchen-remodeling": {
+        "src": "/images/service-kitchen-remodeling.webp",
+        "srcset": "/images/service-kitchen-remodeling-400w.webp 400w, /images/service-kitchen-remodeling-800w.webp 800w, /images/service-kitchen-remodeling-1200w.webp 1200w, /images/service-kitchen-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "bathroom-remodeling": {
+        "src": "/images/service-bathroom-remodeling.webp",
+        "srcset": "/images/service-bathroom-remodeling-400w.webp 400w, /images/service-bathroom-remodeling-800w.webp 800w, /images/service-bathroom-remodeling-1200w.webp 1200w, /images/service-bathroom-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "home-additions": {
+        "src": "/images/service-home-additions.webp",
+        "srcset": "/images/service-home-additions-400w.webp 400w, /images/service-home-additions-800w.webp 800w, /images/service-home-additions-1200w.webp 1200w, /images/service-home-additions.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-patio-construction": {
+        "src": "/images/service-deck-patio-construction.webp",
+        "srcset": "/images/service-deck-patio-construction-400w.webp 400w, /images/service-deck-patio-construction-800w.webp 800w, /images/service-deck-patio-construction-1200w.webp 1200w, /images/service-deck-patio-construction.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roofing-services": {
+        "src": "/images/service-roofing-services.webp",
+        "srcset": "/images/service-roofing-services-400w.webp 400w, /images/service-roofing-services-800w.webp 800w, /images/service-roofing-services-1200w.webp 1200w, /images/service-roofing-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-installation": {
+        "src": "/images/service-siding-installation.webp",
+        "srcset": "/images/service-siding-installation-400w.webp 400w, /images/service-siding-installation-800w.webp 800w, /images/service-siding-installation-1200w.webp 1200w, /images/service-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
